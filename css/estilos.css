@@ -14,6 +14,20 @@ body{
     margin: 0px auto;
 }
 
+#cabecera{
+    background: blue;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+    padding: 10px;
+    font-size: 25px;
+}
+
+#cabecera span{
+    padding-left: 10px;
+    font-size: 13px;
+}
+
 #contanier h1{
     font-size: 20px;
 }
